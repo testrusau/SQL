@@ -1,2 +1,2 @@
-SELECT * FROM users;
+SELECT * FROM users1;
 SELECT * FROM users WHERE age > 20;
